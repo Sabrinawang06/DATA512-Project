@@ -14,8 +14,11 @@ https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?se
 This data is gathered from a published report from Fairfax County "Youth Mental Health in Fairfax County During the COVID-19 Pandemic" which is published in April 2021. The data presented in the report is gather by Fairfax-Falls Church Community Services Board (CSB). There are multiple tables/charts included in the appendix section of the report and the data is aggregated on monthly level. Tables selected from the report to be used in the analysis are as following:
 
 •	Number of Youth Receiving CSB Outpatient Services by Month, FY2019 – _FY2021. Source: Fairfax-Falls Church Community Services Board.
+
 •	Number of Youth Receiving CSB Intensive Mental Health Treatment Services by Month, FY2019 – _FY2021. Source: Fairfax-Falls Church Community Services Board.
+
 •	Number of Youth Receiving CSB Crisis Intervention Services, and the Number Requiring Hospitalization, by Month, FY2019 – _FY2021
+
 •	Percentage of Juvenile Court Screenings Indicating Need for Immediate Mental Health Treatment by Month, FY2019-FY2020. 
 
 https://www.fairfaxcounty.gov/neighborhood-community-services/sites/neighborhood-community-services/files/assets/documents/prevention/reports/youth%20mental%20health%20-%20april%202021%20final.pdf
